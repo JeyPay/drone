@@ -1,0 +1,742 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"image",
+				"image_buffer"
+			],
+			[
+				"jp",
+				"jpg_original"
+			],
+			[
+				"client",
+				"clientAccept"
+			],
+			[
+				"return",
+				"returned_clientName"
+			],
+			[
+				"create",
+				"createDataString"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"def",
+				"defs\tMethod"
+			],
+			[
+				"jpg",
+				"jpg_as_text"
+			],
+			[
+				"angle",
+				"angleTilt2"
+			],
+			[
+				"key",
+				"key_pressed"
+			],
+			[
+				"size",
+				"sizeCircles"
+			],
+			[
+				"draw",
+				"draw_square"
+			],
+			[
+				"dr",
+				"draw_boat"
+			],
+			[
+				"face",
+				"face_locations"
+			],
+			[
+				"fac",
+				"face_locations"
+			],
+			[
+				"rand",
+				"random_step"
+			],
+			[
+				"path",
+				"path_win_files"
+			],
+			[
+				"base",
+				"base_algorithme"
+			],
+			[
+				"ste",
+				"step"
+			],
+			[
+				"steps",
+				"steps_to_follow"
+			],
+			[
+				"save",
+				"player_save_pos"
+			],
+			[
+				"generate",
+				"generate_grid_name"
+			],
+			[
+				"intermediate",
+				"intermediate_grid"
+			],
+			[
+				"steps_",
+				"steps_to_win"
+			],
+			[
+				"win",
+				"winDetection"
+			],
+			[
+				"step",
+				"step_grid_name"
+			],
+			[
+				"grid_",
+				"grid_name"
+			],
+			[
+				"temp",
+				"temp_grid"
+			],
+			[
+				"grid",
+				"grid_to_list"
+			],
+			[
+				"loop",
+				"loopy"
+			],
+			[
+				"Fal",
+				"False_count"
+			],
+			[
+				"True",
+				"True_count"
+			],
+			[
+				"cli",
+				"client_data"
+			],
+			[
+				"cmd",
+				"cmd_split"
+			],
+			[
+				"en",
+				"encrypt_key_str"
+			],
+			[
+				"outFile",
+				"outFile_arg"
+			],
+			[
+				"inFile",
+				"inFile_arg"
+			],
+			[
+				"outF",
+				"outFile_arg"
+			],
+			[
+				"boat",
+				"boat_size"
+			],
+			[
+				"square",
+				"squareY"
+			],
+			[
+				"squ",
+				"squareY"
+			],
+			[
+				"wi",
+				"windowSize"
+			],
+			[
+				"list",
+				"list_client_name"
+			],
+			[
+				"unk",
+				"unknown_image_path"
+			],
+			[
+				"kno",
+				"known_face_path"
+			],
+			[
+				"ma",
+				"mainloop"
+			],
+			[
+				"nom",
+				"nom_de_tableau"
+			],
+			[
+				"chaine",
+				"chaine_de_caractere"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"auth",
+				"auth_views"
+			],
+			[
+				"name",
+				"name_file"
+			],
+			[
+				"form",
+				"form_file"
+			],
+			[
+				"pro",
+				"proj_mess"
+			],
+			[
+				"sele",
+				"selected_project"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"id",
+				"id_article2"
+			],
+			[
+				"view",
+				"view_article"
+			],
+			[
+				"run",
+				"runTouchApp"
+			],
+			[
+				"screen",
+				"screen_path"
+			],
+			[
+				"send",
+				"send_line"
+			],
+			[
+				"data",
+				"dataEncoding"
+			],
+			[
+				"clie",
+				"clientName"
+			],
+			[
+				"dict",
+				"dictClientConnected"
+			],
+			[
+				"DICT",
+				"dictClientConnected"
+			],
+			[
+				"val",
+				"value_tot_blue"
+			],
+			[
+				"value",
+				"value_tot_red"
+			],
+			[
+				"max",
+				"max_posx"
+			],
+			[
+				"min",
+				"min_posx"
+			],
+			[
+				"pos",
+				"posx"
+			],
+			[
+				"pixel_",
+				"pixel_done"
+			],
+			[
+				"nb",
+				"nb_pixel_shape"
+			],
+			[
+				"leng",
+				"lenght_posy"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"im_base",
+				"im_r_base"
+			],
+			[
+				"local_p",
+				"local_password"
+			],
+			[
+				"Encry",
+				"EncryptText"
+			],
+			[
+				"language",
+				"language_version"
+			],
+			[
+				"Upload",
+				"UploadData"
+			],
+			[
+				"cmd_split",
+				"local_cmd_split"
+			],
+			[
+				"start",
+				"start_new_thread"
+			],
+			[
+				"dict_",
+				"dict_language_lang_en"
+			],
+			[
+				"ver",
+				"verify_password"
+			],
+			[
+				"local",
+				"local_general_bool"
+			],
+			[
+				"Encr",
+				"EncryptText"
+			],
+			[
+				"dic",
+				"dict_connected_uuid"
+			],
+			[
+				"dict_connected",
+				"dict_connected_uuid"
+			],
+			[
+				"Cli",
+				"ClientLogin"
+			],
+			[
+				"Extract",
+				"ExtractArchive"
+			],
+			[
+				"Remove",
+				"RemovePath"
+			],
+			[
+				"Download",
+				"DownloadData"
+			],
+			[
+				"platefo",
+				"local_plateform"
+			],
+			[
+				"_",
+				"_to_"
+			],
+			[
+				"working",
+				"working_path"
+			],
+			[
+				"loca",
+				"local_cmd_split"
+			],
+			[
+				"previous",
+				"previous_temp_size"
+			],
+			[
+				"extract",
+				"extract_archive_path"
+			],
+			[
+				"archive",
+				"archive_path"
+			],
+			[
+				"platef",
+				"local_plateform"
+			],
+			[
+				"file",
+				"file_size"
+			],
+			[
+				"makedir",
+				"makedirs"
+			],
+			[
+				"Get",
+				"GetUserPath"
+			],
+			[
+				"uuid",
+				"uuid"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 312.0,
+		"history":
+		[
+			"os.system('pyhon \"Reconnaissance image_grayscale.py\"')",
+			"os.system('pyhon log.py')",
+			"os.execute('python log.py')",
+			"import os",
+			"exec",
+			"python",
+			"print('hello')",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ryandanenberg/Desktop/Projet Drone/Programme Final",
+		"/Users/ryandanenberg/Desktop/Projet Drone/Programme Final/package"
+	],
+	"file_history":
+	[
+		"/Users/ryandanenberg/Desktop/Projet Drone/Programme Final/package/socketManagement.py",
+		"/Users/ryandanenberg/Desktop/Projet Drone/Programme Final/TestSocketServerDrone.py",
+		"/Users/ryandanenberg/Desktop/Projet Drone/Programme Final/TestSocketClientTelecommande.py",
+		"/Users/ryandanenberg/Desktop/Projet Drone/Programme Final/package/displayManagement.py",
+		"/Users/ryandanenberg/Desktop/Projet Drone/Programme Final/Telecommande.py",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Django/Django.py",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Multimedia/Webcam/Webcam.py",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Computer Vision/Face Detection/webcam.py",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Raspberry Pi/Webcam/webcam.py",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/BatailleNavale/BatailleNavale.py",
+		"/Users/ryandanenberg/Desktop/Programmation/C++/Apprentissage 1/Tuto/Le C++.cpp",
+		"/Users/ryandanenberg/Desktop/maine.cpp",
+		"/Users/ryandanenberg/Desktop/OpenCV.pyee",
+		"/Users/ryandanenberg/Desktop/OpenCV.pye",
+		"/Users/ryandanenberg/Desktop/resultat.py",
+		"/Users/ryandanenberg/Desktop/Palindrome_encrypt.py",
+		"/Users/ryandanenberg/Desktop/tkinter_graphic.py",
+		"/Users/ryandanenberg/Desktop/tkinter.py",
+		"/Users/ryandanenberg/Desktop/OpenCV.py",
+		"/Users/ryandanenberg/Desktop/out.py",
+		"/Users/ryandanenberg/Desktop/OpenCV_e.py",
+		"/Users/ryandanenberg/Library/Developer/Xcode/DerivedData/Encrypt_Bits-acsxkgjlcuibaqgwewsyjxzmmruj/Build/Products/Debug/Encrypt_Bits.sh",
+		"/Users/ryandanenberg/Desktop/Projet Drone/Latitude : Longitute/Convert in meter.py",
+		"/Users/ryandanenberg/Desktop/Projet Drone/Commande_WiFi/Server.py",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/BatailleNavale/package/gameManagement.py",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Serveur Python/Drive/V3/Serveur/Serveur_Drive_V3.2.sh",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Computer Vision/Face Detection/webcam_cv3.sh",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/PDF Reader/PDF Reader.py",
+		"/Users/ryandanenberg/Desktop/Programmation/HTML:CSS:PHP/inraci-student copie.php",
+		"/Users/ryandanenberg/Desktop/page.html",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Computer Vision/Face Detection/facerec_from_webcam_faster.py",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Aba : Lionel/facerec_from_webcam_faster.py",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Computer Vision/Face Detection/webcam_cv3.py",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Tic-Tac-Toe/V2/Tic-Tac-Toe_PreOptimised_V2_winD.py",
+		"/Users/ryandanenberg/Desktop/Projet Drone/Face Tracking/tete_replacement.py",
+		"/Users/ryandanenberg/Desktop/Projet Drone/Face Tracking/moustache.py",
+		"/Users/ryandanenberg/Desktop/Projet Drone/Face Tracking/webcam_cv3.py",
+		"/Users/ryandanenberg/Desktop/Projet Drone/Face Tracking/nope.py",
+		"/Users/ryandanenberg/Desktop/Projet Drone/Face Tracking/Face Tracking Base.py",
+		"/Users/ryandanenberg/Desktop/Programmation/HEFF - Labo Info/Labo 6/Main/Labo 6_1.c",
+		"/Users/ryandanenberg/Desktop/shutdown codes.sh",
+		"/Users/ryandanenberg/Desktop/purge.sh",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Tic-Tac-Toe/Machine Learning/Base_algorithme.py",
+		"/Users/ryandanenberg/Library/Group Containers/3L68KQB4HG.group.com.readdle.smartemail/cache/messagesData/4/2554/main2.c",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Tic-Tac-Toe/Machine Learning/Tic-Tac-Toe_PreOptimised_V2_winD.py",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Tic-Tac-Toe/V2/Tic-Tac-Toe_PreOptimised.py",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Serveur Python/Drive/V3/Client/Client_Drive_V3.2.py",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Serveur Python/HTTPServer/Server.py",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Serveur Python/Drive/V3/Serveur/Serveur_Drive_V3.2.py",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Encrypt Decrypt/Binary Encrypt/Interface_Python.py",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Encrypt Decrypt/Binary Encrypt/test.py",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Serveur Python/Drive/V3 copie/Client/Client_Drive_V4.py",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Serveur Python/Drive/V3 copie/Serveur/Serveur_Drive_V4.py",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Serveur Python/Drive/V3 copie/Serveur/Serveur_Drive_V3.1.py",
+		"/Users/ryandanenberg/Desktop/Programmation/C++/Encrypt_Bits/Encrypt_Bits/main_.cpp",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Encrypt Decrypt/Binary Encrypt/Serveur_Drive_V3_e.py",
+		"/Users/ryandanenberg/Downloads/belgium-latest-free.shp/gis.osm_roads_free_1.shp",
+		"/Users/ryandanenberg/Desktop/Programmation/JavaScript/Test0318/html/Test0318.html",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Serveur Python/Tracker/Server_Tracker.py",
+		"/Volumes/Installer/Installer.app/Contents/Info.plist",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/BatailleNavale/package/MCP3002_test.py",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Serveur Python/Drive/V3/Client/package/languages/french/command.json",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Serveur Python/Drive/V3/Client/package/languages/english/command.json",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Serveur Python/Drive/V3/Client/Client_Drive_V3.1.py",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Serveur Python/Drive/V3/Serveur/Serveur_Drive_V3.1.py",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Django/DriveDjango/DriveDjango/settings.py",
+		"/Users/ryandanenberg/Desktop/BatailleNavale.py",
+		"/Users/ryandanenberg/Desktop/Projet Drone/Commande_WiFi/package/Libs.py",
+		"/Users/ryandanenberg/Desktop/TestABA.py",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Tic-Tac-Toe/winDetection.py",
+		"/Users/ryandanenberg/Desktop/Untitled.py",
+		"/Users/ryandanenberg/Desktop/Tic-Tac-Toe.py",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Lionel/OCR/OCR.py",
+		"/Users/ryandanenberg/Desktop/module.py",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Lionel/Lionel_2.py",
+		"/Users/ryandanenberg/Downloads/ACS-ACR122U-NFC-Reader-master-1/ACS-ACR122U-NFC-Reader-master/NFCReader.py",
+		"/Users/ryandanenberg/Downloads/face_recognition-master/face_recognition-master/examples/facerec_from_webcam_faster_modified.py",
+		"/Users/ryandanenberg/Downloads/human-detector-master/human-detector-master/object_detector/detector.py",
+		"/Users/ryandanenberg/Desktop/Projet Drone/Video Streaming/PiCamera/Client.py",
+		"/Users/ryandanenberg/Downloads/face_recognition-master/face_recognition-master/examples/facerec_from_webcam_faster.py",
+		"/Users/ryandanenberg/Downloads/face_recognition-master/face_recognition-master/examples/facerec_on_raspberry_pi.py",
+		"/Users/ryandanenberg/Downloads/face_recognition-master/face_recognition-master/examples/blur_faces_on_webcam.py",
+		"/Users/ryandanenberg/Downloads/face_recognition-master/face_recognition-master/examples/find_faces_in_picture_cnn.py",
+		"/Users/ryandanenberg/Downloads/face_recognition-master/face_recognition-master/examples/identify_and_draw_boxes_on_faces.py",
+		"/Users/ryandanenberg/Downloads/face_recognition-master/face_recognition-master/examples/benchmark.py",
+		"/Users/ryandanenberg/Downloads/face_recognition-master/face_recognition-master/examples/facerec_from_webcam.py",
+		"/Users/ryandanenberg/Desktop/Programmation/HEFF - Labo Info/Labo 5/Labo 5_3/Labo 5_3/main.c",
+		"/Users/ryandanenberg/Desktop/Programmation/HEFF - Labo Info/Labo 5/Labo 5/Labo 5/main.c",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Django/DriveDjango/files/templates/files/home.html",
+		"/Users/ryandanenberg/Desktop/Programmation/HEFF - Labo Info/Labo 4/Labo4_3/main.c",
+		"/Users/ryandanenberg/Desktop/Programmation/HEFF - Labo Info/Labo 4/Labo4_2/main.c",
+		"/Users/ryandanenberg/Desktop/Programmation/HEFF - Labo Info/Labo 4/Labo4_1/main.c",
+		"/Users/ryandanenberg/Desktop/Programmation/JavaScript/Test0318/Tuto_JavaScript.js",
+		"/Users/ryandanenberg/Desktop/Programmation/JavaScript/Test0318/Test0318.sublime-project",
+		"/Users/ryandanenberg/Sites/index.html",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Tri Fichier/Tri_Fichier/Sort_V1.py",
+		"/Users/ryandanenberg/Desktop/Minecraft Server/Python Server/PythonServer.py",
+		"/Users/ryandanenberg/Desktop/Programmation/JavaScript/Test0318/js/Test0318.js",
+		"/Users/ryandanenberg/Desktop/Programmation/HTML:CSS:PHP/inraci-student.php",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Django/DriveDjango/files/templates/base.html",
+		"/Users/ryandanenberg/Desktop/Programmation/HEFF - Labo Info/Labo 3/Labo 3_3/Labo 3_3/main.c",
+		"/Users/ryandanenberg/Desktop/Programmation/HEFF - Labo Info/Labo 3/Labo 3_2/Labo 3_2/main.c",
+		"/Users/ryandanenberg/Desktop/Programmation/HEFF - Labo Info/Labo 3/Labo 3/Labo 3/main.c",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Django/DriveDjango/files/static/css/main.css",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Django/DriveDjango/files/templates/auth/login.html",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Django/DriveDjango/files/views.py",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Django/OutilTravail/OutilTravail.sublime-workspace",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Django/OutilTravail/adminPanel/views.py",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Django/OutilTravail/adminPanel/urls.py",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Django/OutilTravail/adminPanel/untitled",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Django/OutilTravail/adminPanel/models.py",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Django/OutilTravail/user/templates/user/searchUser.html",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Django/OutilTravail/OutilTravail/settings.py",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Django/OutilTravail/templates/baseAdminPanel.html",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Django/Test0218/Test0218/settings.py",
+		"/Users/ryandanenberg/Downloads/Motion-detection-OpenCV-master/Motion-detection-OpenCV-master/custom.py",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Django/Test0218/blog/views.py",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Django/Messenger1/user/templates/contact.html",
+		"/Users/ryandanenberg/Desktop/Programmation/HEFF - Labo Info/Labo 1/Labo1_1_1.c",
+		"/Users/ryandanenberg/Desktop/Programmation/HEFF - Labo Info/Labo 1/Labo1_1.c",
+		"/Users/ryandanenberg/Desktop/Programmation/HEFF - Labo Info/Labo 1/labo1_1_2",
+		"/Users/ryandanenberg/Desktop/Programmation/HEFF - Labo Info/Labo 1/Labo1_1",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Django/Messenger1/templates/home.html",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Django/Messenger1/templates/base.html",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/generate_pwrd.py",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Random Team.py",
+		"/Users/ryandanenberg/Desktop/Projet Drone/Commande_WiFi/Client_command.py",
+		"/Users/ryandanenberg/Desktop/Programmation/Python/Django/Test0218/blog/templates/blog/addition.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"print("
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "ProgrammesFinauxDrone.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 316.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,14 @@
+1 PIN||#R=1=1 PIN||@[Description]=R||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+Bornier 2 PIN Drone||#B=2=Bornier 2 PIN Drone||@[Description]=B||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+Buzzer||#B=2=Buzzer||@[Description]=B||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+Capacitor 0.1uF||#C=2=Capacitor 0.1uF||@[Description]=C||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+Capacitor 0.33uF||#C=2=Capacitor 0.33uF||@[Description]=C||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+GPS NEO-6M||#G=8=GPS NEO-6M||@[Description]=G||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+LM7805||#L=3=TO220||@[Description]=L||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+MCP3002||#M=8=MCP3002||@[Description]=M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+MCP3008||#R=16=16DIL||@[Description]=R||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=0||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+Molex 2 PIN Drone||#MISC=2=Molex 2 PIN Drone||@[Description]=M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+Molex 3 PIN Drone||#MISC=3=Molex 3 PIN Drone||@[Description]=M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+Molex 4 PIN||#MISC=4=Molex 4 PIN Drone||@[Description]=M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+MPU-9250||#R=12=MPU-9250||@[Description]=R||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+Raspberry Pi Zero W||#R=44=Raspberry Pi Zero W GPIO||@[Description]=R||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
