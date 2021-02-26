@@ -1,0 +1,80 @@
+Start Script Startup : https://www.raspberrypi.org/forums/viewtopic.php?f=28&t=126264
+Altimetre : https://www.adafruit.com/product/1893
+Face Detection : https://github.com/shantnu/Webcam-Face-Detect
+
+MCP3002 : https://www.raspberrypi.org/forums/viewtopic.php?t=135951
+Batterie Li-Po : https://www.amazon.fr/HRB-Batterie-Quadcopter-Airplane-Helicopter/dp/B072QYTBGQ/ref=sr_1_21?ie=UTF8&qid=1515867345&sr=8-21&keywords=Batterie+Lipo+3s
+
+RPi PWM : http://raspi.tv/2013/rpi-gpio-0-5-2a-now-has-software-pwm-how-to-use-it
+Set de 4 moteurs Amazon : https://www.amazon.com/gp/product/B00EDHXZSK/ref=as_li_tl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00EDHXZSK&linkId=221cf30d5120e9a98a968a7371fe464c
+Set de 4 moteurs BangGood : https://www.banggood.com/fr/Emax-MT2213-935KV-Brushless-Motor-For-RC-Multicopter-p-69288.html
+ESC Configuration : https://forum.arduino.cc/index.php?topic=270309.0
+Servo moteur : http://www.instructables.com/id/Servo-Motor-Control-With-Raspberry-Pi/
+
+Configurer UART : https://raspberrypi.stackexchange.com/questions/47671/why-my-program-wont-communicate-through-ttyama0-on-raspbian-jessie
+Configurer NEO-6M : http://pibot-maison.blogspot.be/2016/01/installer-un-gps-sur-raspberry-pi.html
+Python UART Serial : https://www.elinux.org/Serial_port_programming
+NEO 6M GPS : https://fr.aliexpress.com/item/1Set-Ublox-NEO-6M-GPS-Module-GY-GPS6MV2-NEO6MV2-Buit-in-EEPROM-APM2-5-Antenna-3V/32828254679.html?spm=a2g0w.search0104.3.96.7ce33ccaYz8ucb&ws_ab_test=searchweb0_0,searchweb201602_5_10065_10344_10068_10342_10343_10340_10341_10084_10617_10083_10616_10618_10304_10615_10307_10306_10302_5920011_10313_10059_10534_100031_10103_441_10624_442_10623_10622_10621_10620_10142,searchweb201603_6,ppcSwitch_5&algo_expid=c713f9b0-fbbd-482f-a5b1-267cb5e53000-14&algo_pvid=c713f9b0-fbbd-482f-a5b1-267cb5e53000&priceBeautifyAB=4
+Datasheet GPS : https://cdn-learn.adafruit.com/downloads/pdf/adafruit-ultimate-gps.pdf
+GPS Prog : http://pibot-maison.blogspot.com/2016/01/installer-un-gps-sur-raspberry-pi.html
+
+Drone Frame 3D : https://www.thingiverse.com/thing:1206960
+Drone Frame Aliexpress : https://fr.aliexpress.com/item/F450-S500-X500-500mm-Quadcopter-Cadre-kit-Emax-MT2213-935KV-Brushless-Moteur-30A-Simonk-ESC-pour/32832974368.html
+
+BMS Batteries : https://www.amazon.com/150A-Battery-Protection-Board-Lipo/dp/B01LYVLN2L
+Batteries : https://www.amazon.com/FLOUREON-Discharge-Quadcopter-Helicopter-Airplane/dp/B00HWQ3JVM/ref=sr_1_4?ie=UTF8&qid=1525711949&sr=8-4&keywords=floureon+3s
+Batteries : https://www.gearbest.com/battery/pp_643260.html
+Gimbal Brushless tutorial : http://www.instructables.com/id/DIY-Brushless-Gimbal-with-Arduino/
+Custom ESC : https://www.youtube.com/watch?v=8LXPcJD6hEA
+Différents Propellers : https://www.youtube.com/watch?v=QKeal4l_daU
+
+Mini ESC : https://hobbyking.com/en_us/supermicro-systems-brushless-esc-3-0a.html?___store=en_us
+Mini Brushless (3) : https://www.banggood.com/1104-8700KV-2S-Brushless-Motor-for-80mm-90mm-100mm-Micro-RC-Drone-FPV-Racing-p-1286255.html?rmmds=buy&cur_warehouse=CN
+PWM to DC : https://www.instructables.com/id/Arduino-RC-Circuit-PWM-to-analog-DC/
+
+
+IRF60R217 Farnell : https://be.farnell.com/fr-BE/infineon/irf60r217/mosfet-canal-n-60v-58a-to-252/dp/2781111?st=IRF60R217
+IRF540 Diode : https://be.farnell.com/fr-BE/vishay/irf540pbf/transistor-mosfet-polarite-n/dp/1653661?ost=IRF540PBF&scope=partnumberlookahead&searchref=searchlookahead&krypto=cdbsbCsb179qJw3fvqJlKcPqC%2FgWKR9foWd8fnA1PjOgrzrIdDADc1z9uxwVoOIk09rZEUa%2B3fg1IJibzc9qpXzHZI%2BD4PmqearOiwXk3EKA4lq072GcLS6U7gAhCtpzQ0hayloFQa7UAKTSxsjQdm%2Fdj2jL46b970GwBcNBH5d16ufO9w7aXTLW%2Bv5rw6dX7HKCVf4u2uQH6G1o%2F%2BwPk3qzBTJUGpo4Uy41QKQ2tAM6SM1P17qYgKdUEwaQ%2By7k5u6b7R2IY0ef0AkyapX1MpDGw7no6nOUkdrtOLDJOGdEdmi7hi%2FOp%2BcAtbldgjXTlaEnQc86HGFBV0V3kTIAL09ONmwkBM24UpkN9bptU%2BhquXuqvva4xfgKdP5LcpmfHCalY%2FjgBINRg%2B4FvAKQGsQ3C%2BTl1x%2BGPVRjxUkzZE5Mup%2FayU6H5BEjWPl8HimDc8sIpQoP5Drd%2BnmV7Gq8hP3OLGyLZxtgXY6Gmuoh%2FYceCBA9pqJALsx9PsvQfZUG3eXo%2B4JUagc8N5H4dKdkBp6YwWfEIY5Qev3dQvO%2BRiSJEUq6hsl2t%2Fz0UN%2BiT8ACv%2B%2BH1L38Fmk%2F5yA60DzzPnfWEhOT1Unn8kid9BxdeNs%3D&ddkey=https%3Afr-BE%2FElement14_Belgium%2Fw%2Fsearch
+Gimbal Brushless motor: https://hobbyking.com/en_us/2206-140kv-brushless-gimbal-motor-ideal-for-gopro-style-cameras.html
+
+Lecture HID Python : https://github.com/trezor/cython-hidapi/blob/master/try.py
+Install OpenCV-raspberry : https://yoursunny.com/t/2018/install-OpenCV3-PiZero/
+Python UART : https://www.elinux.org/Serial_port_programming#Step_2:_Test_with_Python_and_a_terminal_emulator
+Timing de FDP RPi : https://www.studica.com/blog/raspberry-pi-timer-embedded-environments?fbclid=IwAR0nyS1ipj38dIYiUigcLCxsS9SS-dTbZUHrDG_AyMoFels7oMuEGej46Ss
+
+picamera on OpenCV : https://stackoverflow.com/questions/29583533/videocapture-open0-wont-recognize-pi-cam
+Capture Map Image : https://stackoverflow.com/questions/7490491/capture-embedded-google-map-image-with-python-without-using-a-browser
+Google Maps Developper Guide : https://developers.google.com/maps/documentation/maps-static/dev-guide#Markers
+From PIL to OpenCV : https://stackoverflow.com/questions/14134892/convert-image-from-pil-to-opencv-format
+Overlay OpenCV Images : https://stackoverflow.com/questions/14063070/overlay-a-smaller-image-on-a-larger-image-python-opencv
+Bullet connector ESC : https://fr.aliexpress.com/item/100pcs-set-5-colors-16-14AWG-Male-Female-Bullet-Connector-Crimp-Terminals-Wiring/32813035549.html?spm=a2g0w.search0104.3.54.5f8a6897TQFxUv&ws_ab_test=searchweb0_0,searchweb201602_5_10065_10068_319_5735015_317_5734915_10696_10924_10084_453_454_10083_10618_10920_10921_10304_10307_10922_10820_10821_537_10302_536_10843_10059_10884_10887_100031_5735215_321_322_10103_5735115,searchweb201603_51,ppcSwitch_0&algo_expid=529a7d9a-17ef-48b8-b98f-9c68efe70dcb-7&algo_pvid=529a7d9a-17ef-48b8-b98f-9c68efe70dcb
+LM338 : http://www.farnell.com/datasheets/1640753.pdf
+Catalogue Dissipateurs thermique : http://v1.limpulsion.fr/docpdf/2008_cat/bpon_a.pdf#page=6
+
+WiFi ESP32 : https://github.com/espressif/arduino-esp32/blob/master/libraries/WiFi/examples/WiFiClient/WiFiClient.ino
+AsyncServer ESP32 : https://www.youtube.com/watch?v=l7FGuj7Rf9E
+Port manipulation ESP32 : https://esp32.com/viewtopic.php?f=19&t=1746
+SPI examples : https://arduino.stackexchange.com/questions/16348/how-do-you-use-spi-on-an-arduino
+SPI Raspberry : https://www.raspberrypi.org/documentation/hardware/raspberrypi/spi/README.md
+
+Microchip Samples : https://www.microchip.com/samples/
+PID tuning : https://oscarliang.com/quadcopter-pid-explained-tuning/
+Calcul vitesse avec Accelerometre : https://physics.stackexchange.com/questions/153159/calculate-speed-from-accelerometer
+Pull-Up & Down Raspberry : https://github.com/raspberrypilearning/physical-computing-guide/blob/master/pull_up_down.md
+Programme PID: https://github.com/lobodol/drone-flight-controller
+
+Arduino as ISP : https://www.arduino.cc/en/Tutorial/ArduinoToBreadboard
+Blue ESC Github : https://github.com/bluerobotics/BlueESC
+User two cores ESP32 : https://randomnerdtutorials.com/esp32-dual-core-arduino-ide/
+Batterie Turnigy 5000mAh 3S 30C Lipo Pack w/XT-90 : https://hobbyking.com/fr_fr/turnigy-5000mah-3s-30c-lipo-pack-xt-90.html?___store=fr_fr&gclid=Cj0KCQjwl4v4BRDaARIsAFjATPnxxykTqUWbhPExtJocwmiHnqGBcrhqW-POs45wass0EB7KQ3_M0QoaApxaEALw_wcB&gclsrc=aw.ds
+RF Solutions : https://www.rfsolutions.co.uk/
+Zeta : https://be.farnell.com/webapp/wcs/stores/servlet/ProductDisplay?catalogId=15001&langId=32&productSeoURL=rf-solutions&storeId=10154&partNumber=2500104&krypto=BN%2BhHIKhhO0BTRM0QoJ7xysTMkjMspe22EPpaJL4dQP91FArB3ve%2FT4Ld4Pqg%2FWbeuOWuFLfYDiQ09KheZKfoQ%3D%3D
+Li-ion TP4056 : https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf
+GPS I2C tuto : http://www.technoblogy.com/show?1LJI
+GPS Adafruit : https://cdn-shop.adafruit.com/datasheets/GlobalTop-FGPMMOPA6C-Datasheet-V0A-Preliminary.pdf
+
+MT2213 : https://fr.aliexpress.com/item/33006258225.html?spm=a2g0o.productlist.0.0.4caf4e7bO99eik&algo_pvid=61dada18-064b-4c53-adef-316c25c5fe9e&algo_expid=61dada18-064b-4c53-adef-316c25c5fe9e-7&btsid=0ab6f82c15946570597121393e8939&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+Frame : https://fr.aliexpress.com/item/32878153853.html?spm=a2g0o.productlist.0.0.70de76fakIrkLt&algo_pvid=0c0e65b2-7daa-4e71-80fe-ff379f12fce8&algo_expid=0c0e65b2-7daa-4e71-80fe-ff379f12fce8-3&btsid=0ab6f82c15946569207965616e8939&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+
+ESC CI 1 : http://www.farnell.com/datasheets/1842070.pdf 
+ESC CI 2 : http://www.farnell.com/datasheets/1759418.pdf
