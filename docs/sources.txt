@@ -1,0 +1,46 @@
+picamera on OpenCV : https://stackoverflow.com/questions/29583533/videocapture-open0-wont-recognize-pi-cam
+Capture Map Image : https://stackoverflow.com/questions/7490491/capture-embedded-google-map-image-with-python-without-using-a-browser
+Google Maps Developper Guide : https://developers.google.com/maps/documentation/maps-static/dev-guide#Markers
+From PIL to OpenCV : https://stackoverflow.com/questions/14134892/convert-image-from-pil-to-opencv-format
+Overlay OpenCV Images : https://stackoverflow.com/questions/14063070/overlay-a-smaller-image-on-a-larger-image-python-opencv
+Lecture HID Python : https://github.com/trezor/cython-hidapi/blob/master/try.py
+Install OpenCV-raspberry : https://yoursunny.com/t/2018/install-OpenCV3-PiZero/
+PWM to DC : https://www.instructables.com/id/Arduino-RC-Circuit-PWM-to-analog-DC/
+Gimbal Brushless tutorial : http://www.instructables.com/id/DIY-Brushless-Gimbal-with-Arduino/
+Custom ESC : https://www.youtube.com/watch?v=8LXPcJD6hEA
+GPS Prog : http://pibot-maison.blogspot.com/2016/01/installer-un-gps-sur-raspberry-pi.html
+ESC Configuration : https://forum.arduino.cc/index.php?topic=270309.0
+RPi PWM : http://raspi.tv/2013/rpi-gpio-0-5-2a-now-has-software-pwm-how-to-use-it
+MCP3002 : https://www.raspberrypi.org/forums/viewtopic.php?t=135951
+Start Script Startup : https://www.raspberrypi.org/forums/viewtopic.php?f=28&t=126264
+ESC Instructables : https://www.instructables.com/id/Make-Your-Own-ESC/
+ESC Youtube 1 : https://www.youtube.com/watch?v=W9IHEqlGG1s
+ESC Youtube 2 : https://www.youtube.com/watch?v=NXkLydhRvS0
+Loi de Peukert : https://fr.wikipedia.org/wiki/Loi_de_Peukert
+Bus SPI : https://fr.wikipedia.org/wiki/Serial_Peripheral_Interface
+Arduino substring : https://www.arduino.cc/reference/en/language/variables/data-types/string/functions/substring/
+Arduino attachInterrupt : https://www.arduino.cc/reference/en/language/functions/external-interrupts/attachinterrupt/
+Arduino SPI Raspberry example : http://mitchtech.net/raspberry-pi-arduino-spi/
+Internet Protocol : https://fr.wikipedia.org/wiki/Internet_Protocol#Épuisement_des_adresses_IPv4
+TCP/IP : https://fr.wikipedia.org/wiki/Suite_des_protocoles_Internet
+UDP : https://fr.wikipedia.org/wiki/User_Datagram_Protocol#Structure_d'un_datagramme_UDP
+Modèle OSI : https://fr.wikipedia.org/wiki/Modèle_OSI
+Hackathon : https://fr.wikipedia.org/wiki/Hackathon
+GPS : https://fr.wikipedia.org/wiki/Global_Positioning_System
+Manipulation de port Arduino : https://www.arduino.cc/en/Reference/PortManipulation
+Timers ATmega328p : https://forum.arduino.cc/index.php?topic=328094.0
+HID : https://en.wikipedia.org/wiki/Human_interface_device
+Global Positionning System : https://fr.wikipedia.org/wiki/Global_Positioning_System
+SPI : https://fr.wikipedia.org/wiki/Serial_Peripheral_Interface
+Arduino as ISP : https://www.arduino.cc/en/Tutorial/ArduinoToBreadboard
+Arduino as ISP Condo : https://www.youtube.com/watch?v=GWKFfCpGae4
+Blue ESC Github : https://github.com/bluerobotics/BlueESC
+Liste montage AOP : https://fr.wikipedia.org/wiki/Montages_de_base_de_l%27amplificateur_opérationnel#Convertisseur_courant_.C3.A0_tension
+Les AOP : https://fr.wikipedia.org/wiki/Amplificateur_opérationnel
+Diviseur de tension : https://fr.wikipedia.org/wiki/Diviseur_de_tension
+Manuel Arduino Nano : https://www.arduino.cc/en/uploads/Main/ArduinoNanoManual23.pdf
+Datasheet ATmega328p : http://www.atmel.com/Images/Atmel-42735-8-bit-AVR-Microcontroller-ATmega328-328P_Datasheet.pdf
+CAN SAR : https://en.wikipedia.org/wiki/Successive_approximation_ADC
+pulseIn : https://www.arduino.cc/en/Reference/pulseIn
+Moteur Triphasé : https://howtomechatronics.com/how-it-works/how-brushless-motor-and-esc-work/
+Fonctionnement PiCamera : https://picamera.readthedocs.io/en/release-1.13/fov.html
